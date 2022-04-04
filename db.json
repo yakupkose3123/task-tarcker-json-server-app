@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "new task ",
+      "day": "12 mart",
+      "isDone": false,
+      "id": 3
+    },
+    {
+      "text": "javascript",
+      "day": "05.02.2022",
+      "isDone": true,
+      "id": 4
+    },
+    {
+      "text": "react",
+      "day": "05.04.2022",
+      "isDone": false,
+      "id": 5
+    }
+  ]
+}
